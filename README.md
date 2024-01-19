@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nazia Karim Khan Oishee</h1>
-<h3 align="center">A software engineering aspirant, deeply passionate about coding and development. I am dedicated to enhancing my skills and expertise every day.</h3>
+<h1 align="center">Hello 👋, I'm Nazia Karim Khan Oishee</h1>
+<h3 align="center">A software engineering aspirant, deeply passionate about coding and development. Currently, I am pursuing my studies at IUT, Bangladesh, and dedicated to enhancing my skills and expertise every day.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
