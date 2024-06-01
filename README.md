@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello 👋, I'm Nazia Karim Khan Oishee.<br>A software engineering aspirant, deeply passionate about coding and development. Currently, I am pursuing my studies at IUT, Bangladesh, and dedicated to enhancing my skills and expertise every day.
+## Hello 👋, I'm Nazia Karim Khan Oishee.
+A software engineering aspirant, deeply passionate about coding and development. Currently, I am pursuing my studies at IUT, Bangladesh, and dedicated to enhancing my skills and expertise every day.
 
 
 ## 🌐 Socials:
