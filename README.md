@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hello 👋, I'm Nazia Karim Khan Oishee.
-A software engineering aspirant, deeply passionate about coding and development. Currently, I am pursuing my studies at IUT, Bangladesh, and dedicated to enhancing my skills and expertise every day.
+A Software Engineering graduate from IUT, Bangladesh, with a strong passion for software development and problem-solving. Currently working at Brain Station 23, where I continue to enhance my technical skills, gain hands-on experience, and grow as a software engineer.
 
 
 ## 🌐 Socials:
